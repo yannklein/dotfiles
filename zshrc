@@ -54,3 +54,7 @@ export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
 
 export ANDROID_SDK=$HOME/Library/Android/sdk
 export PATH=$ANDROID_SDK/emulator:$ANDROID_SDK/tools:$PATH
+
+# Add olist to python
+export PYTHONPATH="/Users/yann/code/yannklein/data-challenges/04-Decision-Science:$PYTHONPATH"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"

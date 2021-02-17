@@ -1,16 +1,35 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "GitGutter",
-    "Package Control",
-    "SCSS",
-    "SublimeLinter",
-    "SublimeLinter-rubocop"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"Babel Snippets",
+		"Bash Build System",
+		"Color Highlight",
+		"Emmet",
+		"ERB Snippets",
+		"Floobits",
+		"Git",
+		"GitGutter",
+		"GraphQL",
+		"Javascript Beautify",
+		"MagicPython",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"Solarized Toggle",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets",
+		"WebAssembly Text Syntax"
+	]
 }
