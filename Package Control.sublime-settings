@@ -28,8 +28,9 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-rubocop",
+		"Svelte",
 		"Vue Syntax Highlight",
 		"Vuejs Snippets",
 		"WebAssembly Text Syntax"
-	]
+	],
 }
