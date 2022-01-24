@@ -14,5 +14,3 @@ alias unity19-open='unity2019 -projectPath'
 alias jn='jupyter notebook'
 
 alias wow="echo wow: command not found"
-
-alias git_zshrc="git --git-dir=.zshrc_git --work-tree=."
