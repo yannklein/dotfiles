@@ -1,5 +1,4 @@
 hi="\r\rHi Yann"
-
 printf "${hi} 🚀"
 sleep 0.1
 printf "${hi} 👻"
@@ -93,3 +92,4 @@ if [ -f '/Users/yann/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/
 # The next line enables shell command completion for gcloud.
 if [ -f '/Users/yann/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/yann/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
 [ -s "$NVM_DIR/bash_completion" ] && . "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
