@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = yann.klein@me.com
-	name = Le Wagon Tokyo
+	name = Yann Klein
 [filter "lfs"]
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
